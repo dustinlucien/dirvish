@@ -3,10 +3,9 @@
   :dev-dependencies [[org.cloudhoist/pallet-lein "0.2.0"]]
   :dependencies [[org.clojure/clojure "1.2.0"]
                  [org.clojure/clojure-contrib "1.2.0"]
-		             [aleph "0.1.5-SNAPSHOT"]
-		             [org.cloudhoist/pallet "0.4.0-SNAPSHOT"]
+		 [aleph "0.1.5-SNAPSHOT"]
+		 [org.cloudhoist/pallet "0.4.0-SNAPSHOT"]
                  [org.cloudhoist/pallet-crates-all "0.4.0-SNAPSHOT"]]
-                 
                  
   :repositories {"sonatype"
                  "http://oss.sonatype.org/content/repositories/releases"
