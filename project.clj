@@ -10,4 +10,6 @@
   :repositories {"sonatype"
                  "http://oss.sonatype.org/content/repositories/releases"
                  "sonatype-snapshots"
-                 "http://oss.sonatype.org/content/repositories/snapshots"})
+                 "http://oss.sonatype.org/content/repositories/snapshots"}
+
+  :main dirvish.core)
